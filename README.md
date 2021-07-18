@@ -1,4 +1,4 @@
-# Broadcom-BCM43XX-Wifi_drivers_for_Kali_Linux
+# BCM43XX Wifi driver for kali linux
 Wifi for Macbooks in Kali Linux.
 Hello there fellow human, I'm 0FF1C1AL, the creator of this script!
 I'm not a programmer or anything, I'm just a cybersecurity enthusiast.
