@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Hey don't worry, I'm gonna install the necessary stuff needed to get your wifi up and working!";
+echo "Hello fellow mortal human being. Do not worry, as I shall install the necessary stuff needed to get your wifi up and working.";
 
 echo " ";
 
@@ -12,7 +12,7 @@ echo $(lspci -vnn | grep BCM43);
 
 echo " ";
 
-echo "Going to update";
+echo "I shall update your Kali-Linux.";
 
 sudo apt update ;
 
@@ -28,4 +28,4 @@ echo " ";
 
 sudo modprobe wl;
 
-echo "Your wifi should be working now. If it did not work please try restarting your device. If it still doesn't work, I'm sorry.";
+echo "Your wifi shall be working now. If it did not work, thou shall try restarting your device. If it still does not work, the heavens have not granted thou access to Wifi.";
