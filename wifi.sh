@@ -18,7 +18,7 @@ sudo apt update ;
 
 echo " ";
 
-echo $(sudo apt-get install linux-headers-$(uname -r | sed ‘s,[^-]*-[^-]*-,,’) broadcom-sta-dkms);
+sudo apt-get install linux-headers-$(uname -r | sed ‘s,[^-]*-[^-]*-,,’) broadcom-sta-dkms;
 
 echo " ";
 
